@@ -4,7 +4,7 @@
 
 1) Clone this repository by running
 ```
-$ git clone https://github.com/gene4/0123ba78-d85d-4a43-b3f3-f726a71f07e3.git
+$ git clone https://github.com/gene4/react-todo.git
 ```
 
 2) Install the dependencies by running 
@@ -12,7 +12,7 @@ $ git clone https://github.com/gene4/0123ba78-d85d-4a43-b3f3-f726a71f07e3.git
 npm install
 ```
 
-3) start the app on your local server at http://localhost:3000 by running
+3) start the app on your local server by running
 ```
-npm start
+npm run dev
 ```
